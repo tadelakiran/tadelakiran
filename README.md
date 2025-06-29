@@ -1,5 +1,6 @@
-# 💫 About Me:
-I am currently in my final year of b.tech in the department of IT and I am a FUll Stack web develper , specialized in MERN stack<br>
+## Hi there 👋 I'm Sai Kiran Tadela!
+
+🎓 I'm a passionate and driven B.Tech IT student at Aditya Engineering College (2022–2026), currently building full-stack web applications and dreaming big in tech!
 
 
 ## 🌐 Socials:
